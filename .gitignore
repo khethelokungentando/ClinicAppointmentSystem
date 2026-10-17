@@ -1,0 +1,75 @@
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# C/C++ Build Files
+build/
+bin/
+obj/
+out/
+debug/
+release/
+
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Word
+~$*.docx
+~$*.doc
+*.doc
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+_install/
+
+# SQLite Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# SQLite temporary files
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Environment Files
+.env
+.env.*
+!.env.example
+
+# Node-related files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

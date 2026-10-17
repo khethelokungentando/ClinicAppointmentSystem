@@ -1,0 +1,36 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# C++ source files
+*.c text
+*.h text
+*.cpp text
+*.hpp text
+*.cc text
+*.cxx text
+
+# Web files
+*.html text
+*.css text
+*.js text
+*.json text
+
+# Documentation
+*.md text
+*.txt text
+
+# Word files
+*.docx binary
+*.doc  binary
+
+# SQL/database scripts
+*.sql text
+
+# Configuration files
+*.cmake text
+CMakeLists.txt text
+
+# SQLite database files are binary
+*.db binary
+*.sqlite binary
+*.sqlite3 binary
