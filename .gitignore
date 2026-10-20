@@ -73,3 +73,15 @@ node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+*.exe
+*.o
+*.obj
+.env
+.env.*
+!.env.example
+*.log
