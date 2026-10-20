@@ -182,4 +182,9 @@ Developed by the Community Clinic Appointment Management System project group.
 
 University of KwaZulu-Natal (UKZN)
 
-Group members: Add the names of all group members here.
+Group members: 224029583 Nonkululeko Zwane
+224029851 Nduduzo Mchunu
+224057231 Khethelo Myeni
+224071926 Phiwinhlanhla Mashazi
+224049324 Yamkelani Chwayi
+.
